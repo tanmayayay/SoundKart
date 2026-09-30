@@ -1,0 +1,1 @@
+{"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.19.2","razorpay":"^2.9.4"},"description":"SoundKart payments microservice — Razorpay order creation and signature verification.","engines":{"node":">=18"},"main":"server.js","name":"soundkart-payments","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
